@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exam_janvier_2023_n2byoswj_wpftmp
+build_property.ProjectDir = C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Exam_janvier_2023_VICTOR_DENIS_Navial\Exam_janvier_2023\Exam_janvier_2023\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

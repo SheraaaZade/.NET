@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Student_API_Controllers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45DF4C7F-1203-417F-867C-6D5471ECC124}|Student_API_Controllers.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\student_api_controllers\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DF4C7F-1203-417F-867C-6D5471ECC124}|Student_API_Controllers.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DF4C7F-1203-417F-867C-6D5471ECC124}|Student_API_Controllers.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\student_api_controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DF4C7F-1203-417F-867C-6D5471ECC124}|Student_API_Controllers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Student_API_Controllers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Student_API_Controllers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T21:44:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Student_API_Controllers\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Student_API_Controllers\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T21:41:57.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

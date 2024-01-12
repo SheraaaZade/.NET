@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XDQqoQ887TcJGea2Ruo67U6pBLO7PnTucwdBp17wSKR7eWl8sKkrSnJhGqJOkwDbkMK9N8F6wkHfwc/SbyxrZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Bank_Minimal_API_again\\Bank_Minimal_API_again.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chehr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\chehr\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\chehr\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\chehr\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\chehr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\chehr\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\viewmodels\\legumesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:viewmodels\\legumesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\viewmodels\\legumemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:viewmodels\\legumemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\demolegume - wpf2\\demolegume\\models\\legume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DCC0E9-9201-4FA4-AA9A-11E9B1F37771}|DemoLegume.csproj|solutionrelative:models\\legume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T16:21:30.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T16:21:28.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-01T16:21:27.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegumesVM.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\ViewModels\\LegumesVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LegumesVM.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\ViewModels\\LegumesVM.cs",
+              "RelativeToolTip": "ViewModels\\LegumesVM.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T14:51:22.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LegumeModel.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\ViewModels\\LegumeModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LegumeModel.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\ViewModels\\LegumeModel.cs",
+              "RelativeToolTip": "ViewModels\\LegumeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T14:51:22.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Legume.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\Models\\Legume.cs",
+              "RelativeDocumentMoniker": "Models\\Legume.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\Models\\Legume.cs",
+              "RelativeToolTip": "Models\\Legume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T14:51:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-01T14:51:22.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\DemoLegume - WPF2\\DemoLegume\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T14:51:22.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

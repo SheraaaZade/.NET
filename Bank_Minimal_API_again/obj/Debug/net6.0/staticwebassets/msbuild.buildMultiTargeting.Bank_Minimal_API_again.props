@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bank_Minimal_API_again.props" />
+</Project>

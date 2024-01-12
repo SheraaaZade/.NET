@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\northwind_api\\repository\\unitofworknorthwindsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|solutionrelative:repository\\unitofworknorthwindsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\northwind_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\northwind_api\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\northwind_api\\repository\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|solutionrelative:repository\\baserepositorysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\northwind_api\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\northwind_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\northwind_api\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29702BFF-E6A1-486C-9DD3-D6E3C21EAD8E}|Northwind_API.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T00:52:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWorkNorthwindSQL.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\UnitOfWorkNorthwindSQL.cs",
+              "RelativeDocumentMoniker": "Repository\\UnitOfWorkNorthwindSQL.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\UnitOfWorkNorthwindSQL.cs",
+              "RelativeToolTip": "Repository\\UnitOfWorkNorthwindSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T00:52:38.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepositorySQL.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\BaseRepositorySQL.cs",
+              "RelativeDocumentMoniker": "Repository\\BaseRepositorySQL.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\BaseRepositorySQL.cs",
+              "RelativeToolTip": "Repository\\BaseRepositorySQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T00:52:25.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T00:24:20.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T00:52:19.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwEgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T15:09:12.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Orders [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Northwind/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "dbo.Orders [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-01-01T00:00:23.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\Northwind_API\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T19:17:35.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

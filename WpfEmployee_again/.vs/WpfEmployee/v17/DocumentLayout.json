@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\WpfEmployee_again\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\wpfemployee_again\\viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\wpfemployee_again\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|c:\\users\\chehr\\onedrive\\bureau\\cours\\3 bloc\\.net_revision\\wpfemployee_again\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\WpfEmployee_again\\ViewModels\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\WpfEmployee_again\\ViewModels\\EmployeeModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-12T00:42:02.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\WpfEmployee_again\\ViewModels\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeVM.cs",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\WpfEmployee_again\\ViewModels\\EmployeeVM.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeVM.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-11T23:57:17.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\WpfEmployee_again\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\chehr\\OneDrive\\Bureau\\Cours\\3 BLOC\\.NET_Revision\\WpfEmployee_again\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-11T23:36:58.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.AssemblyInfoInputs.cache
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.AssemblyInfo.cs
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.csproj.CoreCompileInputs.cache
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\bin\Debug\net6.0\Semaine 2 - App Console.exe
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\bin\Debug\net6.0\Semaine 2 - App Console.deps.json
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\bin\Debug\net6.0\Semaine 2 - App Console.runtimeconfig.json
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\bin\Debug\net6.0\Semaine 2 - App Console.dll
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\bin\Debug\net6.0\Semaine 2 - App Console.pdb
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\bin\Debug\net6.0\LINQ_DataContext.dll
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\bin\Debug\net6.0\LINQ_DataContext.pdb
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.csproj.AssemblyReference.cache
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.csproj.CopyComplete
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.dll
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\refint\Semaine 2 - App Console.dll
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.pdb
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\Semaine 2 - App Console.genruntimeconfig.cache
+C:\Users\chehr\OneDrive\Bureau\Cours\3 BLOC\.NET_Revision\Semaine 2 - App Console\obj\Debug\net6.0\ref\Semaine 2 - App Console.dll
